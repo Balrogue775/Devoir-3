@@ -1,0 +1,33 @@
+.profil {
+    cursor: zoom-in;
+}
+.icon-mail :hover {
+    opacity: 0.5;
+}
+.icon-telephone :hover {
+    opacity: 0.5;
+}
+.icone-maison:hover {
+    opacity: 0.5;
+
+}
+.icone-voiture:hover {
+    opacity: 0.5;
+}
+.logo-en-tete :hover {
+    opacity: 0.5;
+}
+.switch:hover {
+    background-color: #33333310;
+    width: 300px ;
+    transform: scale(1);
+}
+.switch:hover::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px ;
+    background-color: #17abb3;
+}

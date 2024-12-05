@@ -1,0 +1,55 @@
+.block-body {
+    display: flex;
+    background-color: #ffffff;
+}
+.body-center {
+    background-color: #ffffff;
+    width: 663px;
+    padding-left: 0px;
+    margin-right: 198px;
+}
+.p-body {
+    padding-left: 30px;
+}
+.sous-text {
+    font-size: 15px;
+}
+.hr-place {
+    width: 633px;
+    margin-left: 30px;
+    
+}
+.align-block-p {
+    display: flex;
+    padding-left: 30px;
+}
+.align-p-right {
+    text-align: right;
+    padding-left: 300px;
+    color: #17abb3;
+}
+.sous-text {
+    font-size: 10px;
+    padding-bottom: 30px;
+}
+.place-janvier {
+    padding-top: 60px;
+}
+.top-text {
+    padding-bottom: 40px;
+}
+.place-p-2 {
+    padding-left: 430px;
+    color: #17abb3;
+}
+.block-right {
+    color: #17abb3;
+    width: 600px;
+    text-align: right;
+}
+.p-place-1 {
+    padding-bottom: 20px;
+}
+
+
+
